@@ -1,0 +1,24 @@
+{
+  "name": "apps-testaveis-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.37.0",
+    "@typescript-eslint/parser": "^5.37.0",
+    "eslint": "^8.23.1",
+    "eslint-config-xo": "^0.42.0",
+    "eslint-config-xo-typescript": "^0.53.0",
+    "typescript": "^4.8.3",
+    "vitest": "^0.23.2"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
